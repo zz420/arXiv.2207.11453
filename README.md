@@ -17,4 +17,8 @@ Full text can be found @ https://arxiv.org/abs/2207.11453
 
 See codes below:
 
-[delivered](delivered.pdf)
+[delivered.m](delivered.pdf)  This is the main code
+
+[Npulse.m](Npulse.pdf)  SubFunction: defining the Nyquist pulse shape
+
+[LPfilter.m](LPfilter.pdf)  SubFunction: defining a low pass filter. Parameters can be found in the paper
