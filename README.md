@@ -17,3 +17,4 @@ Full text can be found @ https://arxiv.org/abs/2207.11453
 
 See codes below:
 
+[delivered](delivered.pdf)
